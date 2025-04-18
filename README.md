@@ -43,4 +43,4 @@ npm run deploy
 
 ---
 
-> built as an experiement. 
+> Copyright (c) 2025 Hamzeen. H.
